@@ -67,9 +67,10 @@ The dashboard provides a high-level overview of attrition rates, demographic bre
 
 ## 👤 Author
 
-**[Your Name]**
--   Portfolio: [Link to Portfolio]
--   LinkedIn: [Link to LinkedIn]
+**[Balakarthikeyan]**
+Portfolio: https://www.balakarthikeyan.me/
+LinkedIn: balakarthikeyan02122005
+Email: sbb202122005@gmail.com
 
 ---
 *This project is part of my data analytics portfolio, demonstrating proficiency in business intelligence and data visualization.*
